@@ -1,5 +1,7 @@
-// naive solution
+// frequency counter problem
 
+
+// naive solution
 // TC => O(n*n)
 // not a effictive solution
 const same_naive = (arr1, arr2) => {
