@@ -14,7 +14,7 @@ const validAnagram = (str1, str2) => {
         if(!map[item]) return false;
         else map[item]--; 
     }
-    return true;
+    return true;findLongestSubstring
 }
 
 
